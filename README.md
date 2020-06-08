@@ -1,5 +1,5 @@
 # Docker_PCL-OpenCV
-Docker for  PCL-1.8 and Open3 on Ubuntu16
+Docker for  PCL-1.8 and OpenCV3 on Ubuntu16
 
 
 # Usage
